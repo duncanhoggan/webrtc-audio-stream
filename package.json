@@ -13,10 +13,6 @@
     "chrome"
   ],
   "main": "./server.js",
-  "os": [
-    "darwin",
-    "linux"
-  ],
   "dependencies": {
     "express": "^4.17.1",
     "node-uuid": ">= 1.4.x",
